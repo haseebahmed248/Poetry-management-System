@@ -49,7 +49,3 @@ This Java-based Poetry Management System is designed to organize and manage a co
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, make your improvements, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
